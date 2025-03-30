@@ -4,7 +4,7 @@ A minimal Todo List app built using [Streamlit](https://streamlit.io). Create an
 
 ## 🚀 Try it Live
 
-👉 [Click here to try the app on Streamlit Cloud](https://todo-streamlit-app.streamlit.app)
+👉 [Click here to try the app on Streamlit Cloud](【(https://shuwangs-todo-streamlit-app-web-rjhrmm.streamlit.app/】)
 
 ## 📦 Features
 
